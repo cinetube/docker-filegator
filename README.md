@@ -70,4 +70,4 @@ services:
       - /mnt/downloads:/data
       - /mnt/filegator/config:/config
     restart: always    
-    ```
+```
