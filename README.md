@@ -1,3 +1,8 @@
+Git Clone:
+```
+https://github.com/cinetube/docker-filegator-2
+```
+
 Build Docker image:
 
 ```
