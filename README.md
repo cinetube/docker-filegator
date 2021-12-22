@@ -1,3 +1,9 @@
+Build Docker image:
+
+```
+docker build -t cinetube/filegator:latest .
+```
+
 Docker Compose:
 
 ```
